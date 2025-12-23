@@ -4,7 +4,9 @@ This repository contains the Shiny web application supporting the manuscript:
 **"Quantifying the effect of climate and sociodemographic factors on malaria transmission in the Northeast region of India using geospatial modelling"**
 
 **Authors:** [Author List]
+
 **Journal:** [Journal Name],
+
 **Manuscript ID:** [Manuscript ID, if available]
 
 ## 📌 Application Overview
